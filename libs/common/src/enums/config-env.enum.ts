@@ -1,0 +1,11 @@
+export enum ConfigEnv {
+  HTTP_PORT = 'HTTP_PORT',
+  TCP_PORT = 'TCP_PORT',
+
+  LOG_LEVEL = 'LOG_LEVEL',
+  ENVIRONMENT = 'NODE_ENV',
+
+  HOST_URL = 'HOST_URL',
+
+  FRONTEND_URL = 'FRONTEND_URL',
+}
